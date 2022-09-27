@@ -11,6 +11,7 @@ The goal is to drive the customer to make a purchase.
 
 For every customer, for every week, we have a record in this table.
 ![image](https://user-images.githubusercontent.com/113396912/192403002-1a795e37-f666-4209-b4c3-b38eeca92e42.png)
+
 -> Purchase - boolean indicating whether they made at least one purchase in the time period the offer was active
 -> TotalSpend - total amount the customer spent for the last order
 -> CouponUsed - boolean indicating whether the coupon was used in that time period
